@@ -5,3 +5,4 @@ Allow: /
 Disallow: /privacidade.html
 
 Sitemap: https://sauloflima.github.io/site-casa-do-barbudo/sitemap.xml
+wdad
